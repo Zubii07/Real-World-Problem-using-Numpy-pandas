@@ -45,11 +45,6 @@ You've joined *ShopSmart* as a Data Analyst Intern. Your manager provided a one-
 
 ---
 
-## 📌 Sample Visuals and Output Snapshots
-
-> *(Include screenshots or sample tables of cleaned data, transformed columns, and analysis outputs here if available in your notebook.)*
-
----
 
 ## 🔚 Summary of Key Insights
 
@@ -76,13 +71,6 @@ You've joined *ShopSmart* as a Data Analyst Intern. Your manager provided a one-
 - 📦 **Pandas**, **NumPy**
 - 📊 *(Optional)*: **Matplotlib**, **Seaborn** for visualizations
 - 📓 Jupyter Notebook / .py Script
-
----
-
-## 👤 Author
-
-**Your Name**  
-Data Analyst Intern | Python Enthusiast
 
 ---
 
