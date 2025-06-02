@@ -1,0 +1,501 @@
+Date,Order_ID,Product,Category,Sub_Category,Region,City,Quantity,Unit_Price,Discount,Returned
+2024-05-15,1001,Laptop,Technology,Computers,South,Houston,4,217.91,0.0,No
+2024-05-13,1002,Printer,Technology,Accessories,West,San Jose,7,57.36,0.0,No
+2024-01-25,1003,Printer,Technology,Accessories,West,San Jose,4,1076.87,0.2,No
+2024-03-12,1004,Whiteboard,Office Supplies,Presentation,South,Houston,3,1050.23,0.1,No
+2024-04-15,1005,Headphones,Technology,Accessories,South,Houston,2,576.09,0.1,No
+2024-03-23,1006,Pen,Office Supplies,Writing,South,Houston,8,808.98,0.15,Yes
+2024-08-19,1007,Desk,Furniture,Tables,South,Miami,4,1059.81,0.0,No
+2024-12-04,1008,Desk,Furniture,Tables,West,Los Angeles,2,576.39,0.15,No
+2024-03-08,1009,Chair,Furniture,Chairs,East,Boston,6,322.17,0.1,No
+2024-10-28,1010,Phone,Technology,Mobiles,East,Philadelphia,4,253.47,0.15,No
+2024-12-08,1011,Printer,Technology,Accessories,East,Philadelphia,6,1265.85,0.0,No
+2024-02-07,1012,Laptop,Technology,Computers,South,Atlanta,5,108.62,0.2,No
+2024-01-13,1013,Chair,Furniture,Chairs,East,Philadelphia,8,599.49,0.15,No
+2024-08-31,1014,Monitor,Technology,Accessories,East,Philadelphia,9,813.08,0.2,No
+2024-05-03,1015,Pen,Office Supplies,Writing,North,Detroit,4,1496.02,0.05,No
+2024-12-18,1016,Phone,Technology,Mobiles,West,Los Angeles,3,944.89,0.15,No
+2024-11-07,1017,Notebook,Office Supplies,Paper,North,Cleveland,8,798.38,0.2,No
+2024-09-03,1018,Laptop,Technology,Computers,West,San Jose,9,1128.81,0.1,No
+2024-01-22,1019,Notebook,Office Supplies,Paper,East,Boston,1,1431.19,0.1,No
+2024-01-11,1020,Monitor,Technology,Accessories,West,San Jose,5,1264.09,0.2,No
+2024-03-17,1021,Monitor,Technology,Accessories,South,Houston,9,1430.71,0.2,No
+2024-06-17,1022,Pen,Office Supplies,Writing,South,Atlanta,1,176.68,0.1,No
+2024-10-17,1023,Desk,Furniture,Tables,East,New York,4,1318.23,0.0,Yes
+2024-01-31,1024,Whiteboard,Office Supplies,Presentation,West,San Jose,3,201.3,0.15,No
+2024-06-02,1025,Monitor,Technology,Accessories,South,Miami,10,640.48,0.05,No
+2024-01-29,1026,Headphones,Technology,Accessories,South,Atlanta,6,662.77,0.2,No
+2024-05-05,1027,Headphones,Technology,Accessories,East,New York,6,41.34,0.2,No
+2024-09-11,1028,Headphones,Technology,Accessories,West,Los Angeles,1,351.12,0.0,No
+2024-05-06,1029,Phone,Technology,Mobiles,East,Boston,8,329.21,0.05,No
+2024-08-31,1030,Pen,Office Supplies,Writing,North,Chicago,8,1213.17,0.05,Yes
+2024-07-07,1031,Notebook,Office Supplies,Paper,South,Atlanta,7,705.87,0.0,No
+2024-05-22,1032,Phone,Technology,Mobiles,West,San Diego,6,1202.88,0.0,No
+2024-09-25,1033,Headphones,Technology,Accessories,North,Chicago,7,283.4,0.15,No
+2024-01-10,1034,Phone,Technology,Mobiles,North,Cleveland,2,85.38,0.2,No
+2024-07-13,1035,Phone,Technology,Mobiles,East,New York,7,733.61,0.05,No
+2024-03-18,1036,Laptop,Technology,Computers,East,Boston,1,1478.11,0.1,No
+2024-06-15,1037,Whiteboard,Office Supplies,Presentation,South,Atlanta,9,996.19,0.15,No
+2024-05-08,1038,Desk,Furniture,Tables,East,New York,10,1106.25,0.0,No
+2024-04-19,1039,Laptop,Technology,Computers,West,San Jose,8,759.25,0.2,No
+2024-09-19,1040,Printer,Technology,Accessories,West,Los Angeles,2,896.6,0.05,No
+2024-10-05,1041,Pen,Office Supplies,Writing,East,Philadelphia,10,69.22,0.0,No
+2024-10-09,1042,Pen,Office Supplies,Writing,South,Atlanta,4,1007.89,0.1,No
+2024-12-10,1043,Notebook,Office Supplies,Paper,East,Philadelphia,5,691.26,0.0,Yes
+2024-02-28,1044,Pen,Office Supplies,Writing,West,Los Angeles,9,327.6,0.1,No
+2024-11-14,1045,Chair,Furniture,Chairs,West,Los Angeles,6,434.63,0.15,No
+2024-07-03,1046,Desk,Furniture,Tables,West,San Jose,9,456.07,0.0,No
+2024-04-21,1047,Monitor,Technology,Accessories,South,Houston,2,1116.2,0.05,No
+2024-11-12,1048,Pen,Office Supplies,Writing,East,Philadelphia,6,313.36,0.1,No
+2024-07-15,1049,Desk,Furniture,Tables,West,Los Angeles,7,1245.73,0.0,Yes
+2024-12-14,1050,Monitor,Technology,Accessories,South,Houston,8,832.0,0.15,No
+2024-08-28,1051,Phone,Technology,Mobiles,West,San Jose,3,822.93,0.1,No
+2024-06-23,1052,Monitor,Technology,Accessories,North,Chicago,1,469.3,0.0,No
+2024-07-17,1053,Headphones,Technology,Accessories,East,Philadelphia,2,536.98,0.2,No
+2024-01-28,1054,Notebook,Office Supplies,Paper,East,New York,3,1464.55,0.05,No
+2024-09-01,1055,Laptop,Technology,Computers,East,Philadelphia,6,1175.76,0.15,No
+2024-07-08,1056,Headphones,Technology,Accessories,South,Houston,2,579.99,0.0,No
+2024-02-01,1057,Headphones,Technology,Accessories,East,Boston,6,464.73,0.05,No
+2024-12-06,1058,Headphones,Technology,Accessories,North,Detroit,5,1297.89,0.1,No
+2024-05-12,1059,Printer,Technology,Accessories,North,Cleveland,9,503.41,0.0,No
+2024-04-14,1060,Desk,Furniture,Tables,East,Philadelphia,5,67.0,0.2,No
+2024-11-18,1061,Chair,Furniture,Chairs,North,Cleveland,9,182.31,0.2,No
+2024-10-01,1062,Laptop,Technology,Computers,North,Chicago,9,1389.11,0.2,No
+2024-08-04,1063,Headphones,Technology,Accessories,South,Atlanta,2,1423.82,0.1,No
+2024-06-28,1064,Phone,Technology,Mobiles,South,Miami,5,1003.67,0.1,No
+2024-05-29,1065,Desk,Furniture,Tables,East,New York,7,1000.74,0.15,No
+2024-02-19,1066,Monitor,Technology,Accessories,South,Atlanta,9,1252.25,0.1,No
+2024-10-05,1067,Notebook,Office Supplies,Paper,South,Atlanta,8,668.82,0.05,No
+2024-03-16,1068,Monitor,Technology,Accessories,West,San Diego,9,999.14,0.2,No
+2024-11-10,1069,Headphones,Technology,Accessories,South,Houston,4,229.56,0.0,No
+2024-04-15,1070,Whiteboard,Office Supplies,Presentation,West,San Diego,7,1330.34,0.2,No
+2024-03-21,1071,Notebook,Office Supplies,Paper,North,Detroit,4,229.88,0.0,No
+2024-10-28,1072,Phone,Technology,Mobiles,North,Chicago,3,1208.12,0.2,No
+2024-10-19,1073,Printer,Technology,Accessories,East,New York,8,208.68,0.15,No
+2024-05-11,1074,Printer,Technology,Accessories,South,Atlanta,10,1224.36,0.2,No
+2024-02-18,1075,Printer,Technology,Accessories,North,Chicago,8,680.6,0.05,No
+2024-09-14,1076,Desk,Furniture,Tables,North,Cleveland,4,419.15,0.0,No
+2024-03-31,1077,Headphones,Technology,Accessories,South,Atlanta,6,1340.61,0.0,No
+2024-10-14,1078,Headphones,Technology,Accessories,North,Cleveland,3,1062.56,0.0,No
+2024-10-08,1079,Chair,Furniture,Chairs,North,Detroit,1,318.18,0.15,No
+2024-06-07,1080,Pen,Office Supplies,Writing,West,San Jose,7,720.7,0.1,No
+2024-04-09,1081,Notebook,Office Supplies,Paper,North,Cleveland,9,1201.8,0.05,No
+2024-02-16,1082,Desk,Furniture,Tables,North,Detroit,1,589.4,0.15,No
+2024-08-24,1083,Whiteboard,Office Supplies,Presentation,East,Philadelphia,9,50.18,0.15,No
+2024-03-28,1084,Laptop,Technology,Computers,West,San Jose,7,212.19,0.15,No
+2024-12-14,1085,Desk,Furniture,Tables,North,Detroit,4,687.5,0.1,No
+2024-12-21,1086,Notebook,Office Supplies,Paper,South,Atlanta,5,1254.02,0.15,Yes
+2024-01-16,1087,Printer,Technology,Accessories,West,San Diego,4,978.71,0.0,No
+2024-05-22,1088,Headphones,Technology,Accessories,East,New York,10,237.05,0.05,No
+2024-12-05,1089,Phone,Technology,Mobiles,East,Boston,5,1152.68,0.05,No
+2024-10-10,1090,Phone,Technology,Mobiles,East,Boston,2,872.24,0.1,No
+2024-11-22,1091,Notebook,Office Supplies,Paper,North,Cleveland,4,123.23,0.05,No
+2024-08-09,1092,Desk,Furniture,Tables,West,San Jose,1,527.33,0.15,No
+2024-08-11,1093,Phone,Technology,Mobiles,South,Houston,7,1235.27,0.0,No
+2024-10-06,1094,Chair,Furniture,Chairs,North,Cleveland,3,658.88,0.2,No
+2024-12-30,1095,Desk,Furniture,Tables,North,Detroit,7,1240.34,0.2,No
+2024-08-11,1096,Headphones,Technology,Accessories,West,San Diego,8,373.36,0.15,No
+2024-12-18,1097,Notebook,Office Supplies,Paper,South,Houston,8,1277.92,0.05,No
+2024-11-24,1098,Chair,Furniture,Chairs,South,Atlanta,5,1321.68,0.1,No
+2024-11-17,1099,Printer,Technology,Accessories,East,New York,4,1082.91,0.15,No
+2024-02-22,1100,Headphones,Technology,Accessories,North,Cleveland,8,677.78,0.0,Yes
+2024-05-14,1101,Headphones,Technology,Accessories,North,Cleveland,4,466.25,0.2,No
+2024-07-06,1102,Printer,Technology,Accessories,South,Atlanta,9,502.88,0.15,No
+2024-05-18,1103,Desk,Furniture,Tables,East,New York,4,480.17,0.2,No
+2024-02-20,1104,Monitor,Technology,Accessories,East,New York,8,421.98,0.2,No
+2024-05-03,1105,Printer,Technology,Accessories,South,Houston,4,451.41,0.1,No
+2024-03-30,1106,Laptop,Technology,Computers,East,Boston,1,1461.7,0.2,No
+2024-05-20,1107,Monitor,Technology,Accessories,North,Chicago,1,865.36,0.15,No
+2024-08-25,1108,Chair,Furniture,Chairs,East,New York,5,1412.18,0.15,No
+2024-01-24,1109,Phone,Technology,Mobiles,North,Detroit,2,869.76,0.0,No
+2024-07-22,1110,Pen,Office Supplies,Writing,South,Houston,4,186.49,0.15,No
+2024-07-07,1111,Pen,Office Supplies,Writing,East,Philadelphia,7,681.27,0.15,No
+2024-09-14,1112,Pen,Office Supplies,Writing,North,Detroit,10,935.33,0.2,No
+2024-12-30,1113,Phone,Technology,Mobiles,East,Philadelphia,4,404.32,0.0,No
+2024-08-02,1114,Monitor,Technology,Accessories,West,Los Angeles,1,618.69,0.2,No
+2024-03-13,1115,Laptop,Technology,Computers,East,Boston,5,1057.45,0.15,Yes
+2024-01-07,1116,Headphones,Technology,Accessories,South,Miami,10,995.16,0.05,No
+2024-09-08,1117,Printer,Technology,Accessories,East,Philadelphia,3,1363.53,0.05,Yes
+2024-05-26,1118,Monitor,Technology,Accessories,South,Miami,10,1382.58,0.15,No
+2024-07-17,1119,Desk,Furniture,Tables,North,Detroit,9,814.57,0.15,Yes
+2024-12-06,1120,Laptop,Technology,Computers,North,Cleveland,6,909.53,0.0,Yes
+2024-06-11,1121,Pen,Office Supplies,Writing,West,San Jose,5,868.61,0.05,No
+2024-01-23,1122,Whiteboard,Office Supplies,Presentation,South,Houston,10,659.47,0.15,No
+2024-09-05,1123,Whiteboard,Office Supplies,Presentation,South,Atlanta,6,488.38,0.0,No
+2024-10-15,1124,Chair,Furniture,Chairs,North,Cleveland,8,439.44,0.15,No
+2024-11-14,1125,Printer,Technology,Accessories,West,San Diego,2,478.63,0.1,No
+2024-11-09,1126,Notebook,Office Supplies,Paper,West,San Jose,9,698.34,0.0,No
+2024-05-07,1127,Chair,Furniture,Chairs,North,Cleveland,8,1142.39,0.05,No
+2024-01-20,1128,Monitor,Technology,Accessories,South,Atlanta,8,190.92,0.2,No
+2024-11-04,1129,Monitor,Technology,Accessories,South,Miami,1,832.85,0.0,No
+2024-08-18,1130,Phone,Technology,Mobiles,North,Chicago,3,752.58,0.1,No
+2024-07-09,1131,Desk,Furniture,Tables,North,Detroit,8,373.16,0.2,No
+2024-09-08,1132,Headphones,Technology,Accessories,East,New York,5,1161.29,0.15,No
+2024-03-06,1133,Printer,Technology,Accessories,South,Houston,5,1091.82,0.2,No
+2024-07-18,1134,Whiteboard,Office Supplies,Presentation,East,Boston,9,731.67,0.1,No
+2024-07-13,1135,Printer,Technology,Accessories,North,Detroit,6,1305.71,0.05,No
+2024-02-05,1136,Headphones,Technology,Accessories,North,Chicago,6,1119.61,0.15,No
+2024-05-12,1137,Monitor,Technology,Accessories,North,Chicago,3,758.41,0.2,No
+2024-11-25,1138,Phone,Technology,Mobiles,North,Chicago,9,1366.56,0.0,No
+2024-03-23,1139,Notebook,Office Supplies,Paper,East,New York,8,1174.47,0.1,No
+2024-06-16,1140,Notebook,Office Supplies,Paper,West,San Diego,9,576.21,0.1,No
+2024-04-03,1141,Whiteboard,Office Supplies,Presentation,West,San Jose,2,359.81,0.1,No
+2024-04-08,1142,Phone,Technology,Mobiles,North,Chicago,2,671.08,0.1,No
+2024-03-29,1143,Laptop,Technology,Computers,South,Houston,5,544.11,0.15,No
+2024-02-01,1144,Printer,Technology,Accessories,North,Cleveland,3,263.28,0.0,No
+2024-11-26,1145,Notebook,Office Supplies,Paper,East,Boston,10,223.25,0.15,No
+2024-02-28,1146,Whiteboard,Office Supplies,Presentation,South,Miami,1,1349.37,0.15,No
+2024-03-05,1147,Printer,Technology,Accessories,East,New York,8,1418.4,0.2,No
+2024-09-15,1148,Notebook,Office Supplies,Paper,South,Atlanta,5,306.83,0.15,No
+2024-11-26,1149,Phone,Technology,Mobiles,East,Boston,10,544.85,0.1,No
+2024-03-16,1150,Desk,Furniture,Tables,West,San Jose,7,418.98,0.2,No
+2024-08-19,1151,Laptop,Technology,Computers,North,Detroit,4,914.53,0.1,No
+2024-11-30,1152,Headphones,Technology,Accessories,South,Miami,3,946.09,0.0,No
+2024-04-17,1153,Whiteboard,Office Supplies,Presentation,West,San Jose,6,1101.22,0.0,No
+2024-02-18,1154,Chair,Furniture,Chairs,North,Chicago,4,206.92,0.2,No
+2024-12-19,1155,Chair,Furniture,Chairs,South,Houston,5,1371.93,0.15,No
+2024-12-09,1156,Desk,Furniture,Tables,South,Houston,8,1444.71,0.05,No
+2024-08-07,1157,Headphones,Technology,Accessories,North,Cleveland,6,144.55,0.15,Yes
+2024-03-01,1158,Printer,Technology,Accessories,West,San Diego,6,1012.51,0.1,No
+2024-05-15,1159,Chair,Furniture,Chairs,West,San Jose,4,712.5,0.2,No
+2024-01-03,1160,Printer,Technology,Accessories,South,Miami,4,975.0,0.15,No
+2024-10-14,1161,Desk,Furniture,Tables,North,Chicago,3,77.57,0.0,No
+2024-06-25,1162,Whiteboard,Office Supplies,Presentation,West,Los Angeles,4,1332.02,0.05,No
+2024-09-05,1163,Chair,Furniture,Chairs,North,Cleveland,3,1329.27,0.0,No
+2024-03-28,1164,Pen,Office Supplies,Writing,North,Detroit,1,1038.52,0.05,No
+2024-11-26,1165,Headphones,Technology,Accessories,South,Houston,6,821.25,0.1,Yes
+2024-11-23,1166,Desk,Furniture,Tables,East,New York,8,146.59,0.05,No
+2024-03-17,1167,Pen,Office Supplies,Writing,West,Los Angeles,6,372.92,0.05,No
+2024-08-16,1168,Headphones,Technology,Accessories,West,San Jose,4,883.71,0.05,No
+2024-09-29,1169,Monitor,Technology,Accessories,West,San Diego,3,1481.42,0.2,No
+2024-03-15,1170,Monitor,Technology,Accessories,West,San Jose,1,206.39,0.1,No
+2024-03-18,1171,Headphones,Technology,Accessories,South,Houston,3,405.4,0.05,No
+2024-09-05,1172,Printer,Technology,Accessories,West,San Jose,2,719.61,0.1,No
+2024-06-15,1173,Phone,Technology,Mobiles,North,Cleveland,4,1418.67,0.0,No
+2024-05-20,1174,Printer,Technology,Accessories,South,Atlanta,1,100.63,0.15,No
+2024-01-19,1175,Notebook,Office Supplies,Paper,West,San Diego,8,119.5,0.0,No
+2024-03-01,1176,Monitor,Technology,Accessories,West,Los Angeles,5,940.23,0.2,No
+2024-10-15,1177,Chair,Furniture,Chairs,North,Cleveland,9,449.4,0.2,No
+2024-05-11,1178,Phone,Technology,Mobiles,West,San Jose,9,1084.05,0.05,No
+2024-11-08,1179,Headphones,Technology,Accessories,North,Detroit,8,604.11,0.0,No
+2024-11-09,1180,Chair,Furniture,Chairs,South,Atlanta,3,1033.36,0.15,Yes
+2024-01-21,1181,Phone,Technology,Mobiles,West,San Diego,2,1119.44,0.1,No
+2024-07-11,1182,Printer,Technology,Accessories,West,San Jose,9,846.91,0.0,No
+2024-11-29,1183,Notebook,Office Supplies,Paper,West,San Diego,10,475.55,0.0,No
+2024-01-20,1184,Headphones,Technology,Accessories,East,Philadelphia,8,344.12,0.0,No
+2024-08-19,1185,Printer,Technology,Accessories,South,Houston,5,865.41,0.15,No
+2024-04-23,1186,Pen,Office Supplies,Writing,West,San Jose,5,53.14,0.1,No
+2024-05-23,1187,Desk,Furniture,Tables,South,Atlanta,1,280.29,0.05,No
+2024-02-14,1188,Notebook,Office Supplies,Paper,West,Los Angeles,1,146.72,0.2,No
+2024-05-06,1189,Notebook,Office Supplies,Paper,North,Detroit,3,561.38,0.1,No
+2024-09-21,1190,Pen,Office Supplies,Writing,West,Los Angeles,3,244.54,0.2,Yes
+2024-02-18,1191,Phone,Technology,Mobiles,South,Atlanta,7,733.64,0.15,No
+2024-10-24,1192,Headphones,Technology,Accessories,West,San Diego,7,175.23,0.2,No
+2024-12-13,1193,Desk,Furniture,Tables,West,Los Angeles,7,1476.82,0.0,Yes
+2024-01-07,1194,Desk,Furniture,Tables,East,New York,5,441.28,0.0,Yes
+2024-04-28,1195,Notebook,Office Supplies,Paper,East,New York,7,803.55,0.05,No
+2024-07-16,1196,Chair,Furniture,Chairs,West,San Diego,1,659.97,0.15,No
+2024-05-30,1197,Chair,Furniture,Chairs,North,Cleveland,7,1067.15,0.15,No
+2024-12-13,1198,Notebook,Office Supplies,Paper,West,San Diego,3,1203.97,0.2,No
+2024-11-30,1199,Chair,Furniture,Chairs,West,San Diego,2,372.54,0.2,No
+2024-07-28,1200,Phone,Technology,Mobiles,North,Detroit,6,340.14,0.05,Yes
+2024-08-21,1201,Phone,Technology,Mobiles,East,Boston,6,1093.79,0.05,No
+2024-01-29,1202,Monitor,Technology,Accessories,South,Houston,3,907.57,0.0,No
+2024-01-27,1203,Whiteboard,Office Supplies,Presentation,North,Cleveland,10,678.87,0.2,No
+2024-05-17,1204,Pen,Office Supplies,Writing,South,Miami,6,234.93,0.0,No
+2024-06-18,1205,Desk,Furniture,Tables,South,Miami,1,534.39,0.0,No
+2024-10-04,1206,Whiteboard,Office Supplies,Presentation,West,Los Angeles,6,1249.23,0.0,No
+2024-01-27,1207,Phone,Technology,Mobiles,North,Detroit,10,835.93,0.0,No
+2024-09-24,1208,Pen,Office Supplies,Writing,East,Boston,10,718.69,0.05,No
+2024-07-07,1209,Whiteboard,Office Supplies,Presentation,West,San Diego,2,761.78,0.05,Yes
+2024-04-23,1210,Whiteboard,Office Supplies,Presentation,North,Cleveland,9,918.61,0.1,No
+2024-05-17,1211,Desk,Furniture,Tables,North,Detroit,6,1021.56,0.0,No
+2024-11-09,1212,Chair,Furniture,Chairs,West,San Diego,2,841.37,0.15,No
+2024-04-10,1213,Pen,Office Supplies,Writing,East,Boston,2,878.28,0.05,No
+2024-04-18,1214,Desk,Furniture,Tables,North,Chicago,10,1066.16,0.0,No
+2024-05-16,1215,Notebook,Office Supplies,Paper,South,Houston,9,149.24,0.15,No
+2024-09-28,1216,Laptop,Technology,Computers,South,Atlanta,3,1427.24,0.1,No
+2024-01-22,1217,Whiteboard,Office Supplies,Presentation,East,New York,3,240.87,0.1,No
+2024-09-22,1218,Phone,Technology,Mobiles,West,San Jose,6,1315.83,0.2,No
+2024-06-22,1219,Notebook,Office Supplies,Paper,East,New York,3,1248.7,0.2,No
+2024-05-25,1220,Monitor,Technology,Accessories,North,Chicago,7,552.81,0.05,No
+2024-08-15,1221,Pen,Office Supplies,Writing,South,Miami,8,358.66,0.05,No
+2024-05-07,1222,Whiteboard,Office Supplies,Presentation,East,Boston,10,1476.82,0.15,No
+2024-06-09,1223,Notebook,Office Supplies,Paper,North,Chicago,4,1203.88,0.05,No
+2024-05-31,1224,Laptop,Technology,Computers,North,Detroit,9,1402.1,0.2,No
+2024-05-31,1225,Desk,Furniture,Tables,West,Los Angeles,5,679.49,0.2,No
+2024-09-23,1226,Notebook,Office Supplies,Paper,West,Los Angeles,8,1328.1,0.0,No
+2024-03-07,1227,Notebook,Office Supplies,Paper,South,Houston,7,1491.84,0.1,No
+2024-10-14,1228,Chair,Furniture,Chairs,West,San Jose,6,1189.16,0.05,Yes
+2024-04-19,1229,Whiteboard,Office Supplies,Presentation,East,Philadelphia,8,678.42,0.0,No
+2024-08-16,1230,Laptop,Technology,Computers,South,Houston,3,827.72,0.2,No
+2024-05-31,1231,Phone,Technology,Mobiles,South,Houston,5,191.55,0.05,No
+2024-03-23,1232,Pen,Office Supplies,Writing,North,Chicago,2,1256.66,0.15,No
+2024-11-20,1233,Laptop,Technology,Computers,East,Philadelphia,3,444.0,0.0,No
+2024-02-15,1234,Headphones,Technology,Accessories,North,Chicago,2,789.99,0.1,Yes
+2024-05-26,1235,Printer,Technology,Accessories,West,San Diego,8,74.87,0.15,No
+2024-01-12,1236,Desk,Furniture,Tables,West,San Diego,2,523.76,0.0,No
+2024-02-01,1237,Chair,Furniture,Chairs,East,New York,6,823.56,0.05,No
+2024-01-10,1238,Whiteboard,Office Supplies,Presentation,North,Cleveland,3,1219.13,0.0,No
+2024-10-25,1239,Whiteboard,Office Supplies,Presentation,West,San Diego,4,75.27,0.05,No
+2024-03-14,1240,Chair,Furniture,Chairs,South,Miami,7,1483.79,0.2,No
+2024-04-02,1241,Laptop,Technology,Computers,East,Boston,6,1294.59,0.0,No
+2024-08-07,1242,Chair,Furniture,Chairs,South,Houston,6,661.06,0.15,No
+2024-02-11,1243,Notebook,Office Supplies,Paper,South,Houston,8,1041.18,0.1,No
+2024-02-25,1244,Printer,Technology,Accessories,South,Houston,7,127.6,0.2,No
+2024-01-08,1245,Monitor,Technology,Accessories,South,Atlanta,2,129.3,0.1,No
+2024-06-13,1246,Pen,Office Supplies,Writing,North,Chicago,8,533.81,0.0,No
+2024-12-24,1247,Chair,Furniture,Chairs,North,Detroit,1,121.81,0.15,No
+2024-07-08,1248,Monitor,Technology,Accessories,West,Los Angeles,10,1020.35,0.15,Yes
+2024-06-20,1249,Phone,Technology,Mobiles,East,Philadelphia,6,549.6,0.2,Yes
+2024-12-17,1250,Monitor,Technology,Accessories,North,Detroit,6,671.47,0.0,No
+2024-03-19,1251,Printer,Technology,Accessories,South,Atlanta,6,977.85,0.05,No
+2024-04-24,1252,Laptop,Technology,Computers,East,Boston,9,586.61,0.2,No
+2024-05-16,1253,Desk,Furniture,Tables,North,Chicago,10,435.51,0.15,No
+2024-10-25,1254,Monitor,Technology,Accessories,West,San Diego,3,1349.03,0.15,No
+2024-11-06,1255,Chair,Furniture,Chairs,South,Miami,2,829.5,0.1,No
+2024-03-13,1256,Monitor,Technology,Accessories,East,Boston,9,344.12,0.05,No
+2024-07-06,1257,Headphones,Technology,Accessories,North,Chicago,6,835.49,0.1,No
+2024-05-30,1258,Printer,Technology,Accessories,East,Philadelphia,2,107.96,0.15,No
+2024-05-31,1259,Whiteboard,Office Supplies,Presentation,North,Detroit,10,119.89,0.1,No
+2024-02-21,1260,Whiteboard,Office Supplies,Presentation,North,Cleveland,9,523.33,0.2,No
+2024-04-18,1261,Monitor,Technology,Accessories,East,Boston,9,1366.96,0.0,No
+2024-06-27,1262,Printer,Technology,Accessories,East,Boston,3,251.33,0.05,No
+2024-01-24,1263,Printer,Technology,Accessories,South,Houston,5,302.49,0.2,No
+2024-06-16,1264,Desk,Furniture,Tables,West,San Jose,3,891.79,0.2,No
+2024-04-14,1265,Pen,Office Supplies,Writing,South,Miami,1,1239.6,0.0,Yes
+2024-02-07,1266,Pen,Office Supplies,Writing,South,Miami,4,1152.77,0.15,No
+2024-10-11,1267,Laptop,Technology,Computers,North,Cleveland,9,441.61,0.1,No
+2024-11-22,1268,Notebook,Office Supplies,Paper,South,Atlanta,2,1036.03,0.05,No
+2024-10-25,1269,Whiteboard,Office Supplies,Presentation,North,Chicago,6,913.92,0.1,No
+2024-03-05,1270,Chair,Furniture,Chairs,South,Atlanta,3,1143.39,0.2,No
+2024-01-02,1271,Chair,Furniture,Chairs,East,Boston,2,408.53,0.05,No
+2024-12-19,1272,Laptop,Technology,Computers,South,Atlanta,10,633.02,0.05,No
+2024-02-14,1273,Pen,Office Supplies,Writing,South,Houston,3,752.42,0.2,No
+2024-02-18,1274,Desk,Furniture,Tables,North,Chicago,2,1418.4,0.2,No
+2024-02-19,1275,Headphones,Technology,Accessories,East,Philadelphia,6,82.5,0.1,No
+2024-06-29,1276,Whiteboard,Office Supplies,Presentation,South,Miami,1,1272.29,0.15,No
+2024-08-27,1277,Desk,Furniture,Tables,South,Atlanta,6,77.41,0.0,No
+2024-06-05,1278,Headphones,Technology,Accessories,South,Miami,5,119.56,0.2,No
+2024-01-19,1279,Printer,Technology,Accessories,South,Miami,10,187.03,0.0,No
+2024-05-11,1280,Chair,Furniture,Chairs,South,Houston,4,907.67,0.15,No
+2024-01-05,1281,Laptop,Technology,Computers,West,Los Angeles,6,1207.91,0.2,No
+2024-04-26,1282,Pen,Office Supplies,Writing,East,Boston,10,484.61,0.15,No
+2024-07-17,1283,Desk,Furniture,Tables,South,Miami,9,803.19,0.2,No
+2024-09-24,1284,Laptop,Technology,Computers,South,Atlanta,2,1470.05,0.2,No
+2024-03-30,1285,Laptop,Technology,Computers,North,Detroit,10,870.68,0.0,No
+2024-10-02,1286,Monitor,Technology,Accessories,North,Chicago,4,57.04,0.0,No
+2024-02-03,1287,Whiteboard,Office Supplies,Presentation,South,Atlanta,3,625.31,0.05,No
+2024-10-04,1288,Pen,Office Supplies,Writing,North,Cleveland,1,1061.61,0.2,No
+2024-08-18,1289,Chair,Furniture,Chairs,North,Cleveland,7,477.49,0.05,No
+2024-06-04,1290,Printer,Technology,Accessories,South,Miami,6,1017.04,0.1,No
+2024-07-28,1291,Headphones,Technology,Accessories,East,Boston,9,454.76,0.1,No
+2024-10-10,1292,Headphones,Technology,Accessories,North,Detroit,8,529.72,0.1,No
+2024-01-29,1293,Pen,Office Supplies,Writing,North,Detroit,6,1432.37,0.05,No
+2024-02-21,1294,Desk,Furniture,Tables,West,San Diego,8,987.4,0.15,No
+2024-12-24,1295,Printer,Technology,Accessories,South,Miami,5,214.54,0.2,No
+2024-10-19,1296,Headphones,Technology,Accessories,East,New York,9,346.25,0.05,Yes
+2024-09-14,1297,Notebook,Office Supplies,Paper,South,Miami,8,159.81,0.05,Yes
+2024-05-31,1298,Printer,Technology,Accessories,East,Boston,8,721.4,0.05,No
+2024-11-08,1299,Desk,Furniture,Tables,South,Atlanta,1,1362.83,0.0,No
+2024-01-21,1300,Headphones,Technology,Accessories,West,Los Angeles,7,1324.55,0.05,No
+2024-03-09,1301,Laptop,Technology,Computers,North,Detroit,3,1405.55,0.1,No
+2024-07-06,1302,Laptop,Technology,Computers,South,Miami,10,169.88,0.1,No
+2024-12-02,1303,Printer,Technology,Accessories,North,Chicago,9,707.35,0.05,No
+2024-02-06,1304,Chair,Furniture,Chairs,East,Philadelphia,8,975.95,0.05,Yes
+2024-03-23,1305,Chair,Furniture,Chairs,South,Miami,4,271.49,0.15,No
+2024-09-06,1306,Printer,Technology,Accessories,South,Houston,7,1007.19,0.05,No
+2024-01-17,1307,Whiteboard,Office Supplies,Presentation,South,Houston,1,398.57,0.05,No
+2024-10-22,1308,Desk,Furniture,Tables,South,Atlanta,10,1087.09,0.0,No
+2024-03-16,1309,Chair,Furniture,Chairs,East,New York,2,703.44,0.05,No
+2024-01-04,1310,Printer,Technology,Accessories,South,Miami,2,961.68,0.1,No
+2024-04-08,1311,Headphones,Technology,Accessories,East,New York,8,238.25,0.2,No
+2024-06-20,1312,Printer,Technology,Accessories,North,Cleveland,4,1145.17,0.2,No
+2024-08-11,1313,Phone,Technology,Mobiles,North,Cleveland,6,126.37,0.2,No
+2024-05-18,1314,Printer,Technology,Accessories,East,Philadelphia,9,233.28,0.1,No
+2024-02-10,1315,Whiteboard,Office Supplies,Presentation,West,San Jose,4,1078.21,0.15,Yes
+2024-07-02,1316,Printer,Technology,Accessories,North,Chicago,8,206.6,0.15,No
+2024-06-13,1317,Laptop,Technology,Computers,North,Cleveland,5,1087.69,0.15,No
+2024-08-04,1318,Laptop,Technology,Computers,East,Philadelphia,2,77.48,0.1,No
+2024-02-01,1319,Printer,Technology,Accessories,West,Los Angeles,8,57.28,0.15,No
+2024-10-09,1320,Monitor,Technology,Accessories,North,Detroit,7,678.32,0.15,No
+2024-02-21,1321,Printer,Technology,Accessories,East,Philadelphia,6,186.76,0.2,No
+2024-12-02,1322,Monitor,Technology,Accessories,East,New York,1,1467.95,0.15,No
+2024-12-24,1323,Printer,Technology,Accessories,North,Cleveland,7,1236.81,0.05,No
+2024-03-01,1324,Monitor,Technology,Accessories,South,Houston,2,58.0,0.15,No
+2024-05-07,1325,Laptop,Technology,Computers,East,New York,2,160.34,0.0,No
+2024-07-13,1326,Laptop,Technology,Computers,East,Philadelphia,1,609.38,0.05,No
+2024-02-29,1327,Laptop,Technology,Computers,East,Philadelphia,5,358.9,0.2,No
+2024-11-24,1328,Pen,Office Supplies,Writing,South,Houston,5,1315.62,0.2,No
+2024-06-09,1329,Desk,Furniture,Tables,South,Houston,9,1423.3,0.05,No
+2024-01-13,1330,Notebook,Office Supplies,Paper,North,Chicago,6,1412.96,0.15,No
+2024-03-21,1331,Chair,Furniture,Chairs,North,Detroit,3,456.83,0.05,No
+2024-10-04,1332,Whiteboard,Office Supplies,Presentation,East,New York,5,1287.74,0.05,No
+2024-12-07,1333,Laptop,Technology,Computers,North,Detroit,9,799.69,0.15,No
+2024-11-21,1334,Headphones,Technology,Accessories,South,Miami,2,1384.12,0.1,Yes
+2024-10-19,1335,Headphones,Technology,Accessories,West,San Diego,7,1013.77,0.2,Yes
+2024-04-02,1336,Phone,Technology,Mobiles,East,Philadelphia,9,333.35,0.05,No
+2024-09-24,1337,Chair,Furniture,Chairs,South,Houston,4,1406.37,0.0,No
+2024-03-26,1338,Whiteboard,Office Supplies,Presentation,East,Philadelphia,10,1058.62,0.15,No
+2024-01-02,1339,Printer,Technology,Accessories,South,Atlanta,7,704.71,0.1,No
+2024-09-27,1340,Chair,Furniture,Chairs,North,Detroit,2,1206.2,0.15,No
+2024-07-13,1341,Chair,Furniture,Chairs,East,Boston,6,626.76,0.2,No
+2024-07-18,1342,Monitor,Technology,Accessories,West,San Diego,9,1402.79,0.2,No
+2024-03-16,1343,Desk,Furniture,Tables,East,New York,6,352.73,0.2,No
+2024-07-04,1344,Whiteboard,Office Supplies,Presentation,South,Atlanta,8,1450.1,0.15,No
+2024-01-31,1345,Chair,Furniture,Chairs,East,New York,9,737.59,0.2,No
+2024-09-20,1346,Laptop,Technology,Computers,West,Los Angeles,1,1148.86,0.15,No
+2024-07-23,1347,Headphones,Technology,Accessories,West,San Jose,3,23.62,0.2,No
+2024-03-25,1348,Laptop,Technology,Computers,North,Cleveland,8,33.44,0.2,No
+2024-04-11,1349,Laptop,Technology,Computers,West,San Jose,5,808.25,0.1,Yes
+2024-05-28,1350,Notebook,Office Supplies,Paper,East,New York,2,791.33,0.05,No
+2024-12-29,1351,Printer,Technology,Accessories,South,Atlanta,5,1194.46,0.0,No
+2024-10-02,1352,Notebook,Office Supplies,Paper,North,Cleveland,4,1485.45,0.05,No
+2024-08-02,1353,Phone,Technology,Mobiles,West,Los Angeles,7,575.1,0.2,No
+2024-11-30,1354,Laptop,Technology,Computers,East,New York,8,1269.54,0.1,No
+2024-10-06,1355,Phone,Technology,Mobiles,West,Los Angeles,4,1352.9,0.2,No
+2024-05-18,1356,Laptop,Technology,Computers,West,San Jose,5,1349.97,0.2,No
+2024-11-18,1357,Monitor,Technology,Accessories,South,Houston,4,884.68,0.15,No
+2024-02-29,1358,Desk,Furniture,Tables,East,Philadelphia,4,854.38,0.15,No
+2024-12-17,1359,Printer,Technology,Accessories,South,Atlanta,3,1187.84,0.0,No
+2024-06-11,1360,Chair,Furniture,Chairs,West,Los Angeles,7,355.89,0.0,No
+2024-07-17,1361,Pen,Office Supplies,Writing,North,Detroit,1,954.84,0.15,No
+2024-02-29,1362,Chair,Furniture,Chairs,North,Detroit,3,1022.75,0.15,Yes
+2024-10-31,1363,Pen,Office Supplies,Writing,South,Houston,2,132.24,0.05,No
+2024-07-07,1364,Monitor,Technology,Accessories,North,Detroit,6,168.76,0.0,No
+2024-06-29,1365,Whiteboard,Office Supplies,Presentation,South,Atlanta,2,207.44,0.05,No
+2024-04-07,1366,Printer,Technology,Accessories,North,Chicago,1,143.53,0.2,Yes
+2024-08-19,1367,Pen,Office Supplies,Writing,South,Atlanta,1,444.85,0.15,No
+2024-04-05,1368,Printer,Technology,Accessories,East,Philadelphia,9,262.68,0.15,No
+2024-08-13,1369,Desk,Furniture,Tables,South,Atlanta,8,227.44,0.05,No
+2024-08-30,1370,Notebook,Office Supplies,Paper,South,Atlanta,2,548.08,0.05,No
+2024-01-14,1371,Whiteboard,Office Supplies,Presentation,East,Boston,2,211.88,0.0,No
+2024-07-03,1372,Chair,Furniture,Chairs,North,Detroit,8,508.76,0.2,No
+2024-10-18,1373,Chair,Furniture,Chairs,East,Boston,6,274.68,0.15,No
+2024-10-22,1374,Desk,Furniture,Tables,North,Cleveland,4,495.57,0.1,No
+2024-11-25,1375,Notebook,Office Supplies,Paper,South,Houston,10,307.7,0.2,No
+2024-11-12,1376,Printer,Technology,Accessories,West,San Jose,8,1415.03,0.05,No
+2024-07-05,1377,Desk,Furniture,Tables,West,San Diego,8,217.38,0.1,No
+2024-11-08,1378,Monitor,Technology,Accessories,North,Detroit,2,679.11,0.2,No
+2024-09-26,1379,Notebook,Office Supplies,Paper,North,Cleveland,1,1188.17,0.1,No
+2024-10-11,1380,Printer,Technology,Accessories,West,Los Angeles,4,989.83,0.1,No
+2024-02-05,1381,Pen,Office Supplies,Writing,West,San Jose,7,1450.55,0.1,No
+2024-03-15,1382,Notebook,Office Supplies,Paper,West,Los Angeles,2,395.52,0.2,No
+2024-03-21,1383,Printer,Technology,Accessories,East,Boston,6,592.79,0.2,No
+2024-07-16,1384,Monitor,Technology,Accessories,South,Houston,8,165.78,0.15,No
+2024-04-10,1385,Phone,Technology,Mobiles,West,San Jose,3,529.01,0.1,No
+2024-04-23,1386,Headphones,Technology,Accessories,North,Detroit,8,155.46,0.15,No
+2024-11-20,1387,Desk,Furniture,Tables,West,San Jose,2,43.65,0.1,No
+2024-04-18,1388,Monitor,Technology,Accessories,East,Philadelphia,3,832.35,0.1,No
+2024-03-08,1389,Whiteboard,Office Supplies,Presentation,East,Boston,3,287.72,0.15,No
+2024-06-04,1390,Pen,Office Supplies,Writing,East,Boston,10,650.03,0.0,No
+2024-05-09,1391,Headphones,Technology,Accessories,South,Miami,2,870.25,0.2,No
+2024-05-28,1392,Chair,Furniture,Chairs,East,Boston,2,400.91,0.15,No
+2024-09-04,1393,Chair,Furniture,Chairs,North,Cleveland,7,884.64,0.1,No
+2024-02-18,1394,Whiteboard,Office Supplies,Presentation,East,Philadelphia,5,1378.84,0.2,Yes
+2024-09-25,1395,Monitor,Technology,Accessories,South,Houston,4,465.02,0.05,No
+2024-09-04,1396,Monitor,Technology,Accessories,North,Detroit,10,215.42,0.15,No
+2024-07-08,1397,Whiteboard,Office Supplies,Presentation,East,Philadelphia,3,739.57,0.05,No
+2024-11-04,1398,Whiteboard,Office Supplies,Presentation,West,San Diego,1,732.07,0.05,No
+2024-08-28,1399,Printer,Technology,Accessories,North,Detroit,8,629.29,0.15,No
+2024-08-24,1400,Phone,Technology,Mobiles,West,Los Angeles,5,58.72,0.05,No
+2024-10-10,1401,Monitor,Technology,Accessories,North,Cleveland,8,829.09,0.0,No
+2024-01-13,1402,Desk,Furniture,Tables,South,Miami,1,1142.41,0.15,No
+2024-01-15,1403,Notebook,Office Supplies,Paper,West,San Jose,4,453.59,0.0,No
+2024-08-10,1404,Chair,Furniture,Chairs,West,San Diego,2,1165.69,0.05,No
+2024-11-09,1405,Pen,Office Supplies,Writing,South,Miami,10,952.83,0.05,No
+2024-01-29,1406,Headphones,Technology,Accessories,East,New York,10,532.72,0.1,No
+2024-01-21,1407,Monitor,Technology,Accessories,South,Miami,5,441.11,0.1,No
+2024-04-23,1408,Printer,Technology,Accessories,West,Los Angeles,7,1378.97,0.1,No
+2024-08-05,1409,Monitor,Technology,Accessories,East,New York,3,1069.98,0.05,No
+2024-08-31,1410,Notebook,Office Supplies,Paper,North,Chicago,10,952.28,0.15,No
+2024-03-24,1411,Phone,Technology,Mobiles,West,San Diego,9,1127.21,0.1,No
+2024-09-11,1412,Whiteboard,Office Supplies,Presentation,South,Miami,1,1304.67,0.0,No
+2024-03-01,1413,Whiteboard,Office Supplies,Presentation,South,Houston,9,602.6,0.15,No
+2024-08-27,1414,Whiteboard,Office Supplies,Presentation,South,Atlanta,5,513.26,0.2,No
+2024-08-15,1415,Whiteboard,Office Supplies,Presentation,South,Miami,1,78.45,0.15,Yes
+2024-03-04,1416,Monitor,Technology,Accessories,North,Detroit,1,1487.84,0.15,No
+2024-03-11,1417,Monitor,Technology,Accessories,South,Houston,5,149.08,0.1,No
+2024-03-29,1418,Chair,Furniture,Chairs,East,New York,7,942.15,0.05,No
+2024-09-10,1419,Phone,Technology,Mobiles,West,Los Angeles,4,720.44,0.05,No
+2024-11-28,1420,Printer,Technology,Accessories,North,Chicago,1,1046.44,0.0,No
+2024-05-26,1421,Notebook,Office Supplies,Paper,East,Boston,2,351.13,0.0,No
+2024-07-02,1422,Phone,Technology,Mobiles,West,San Diego,6,1322.67,0.05,No
+2024-10-14,1423,Monitor,Technology,Accessories,East,New York,9,849.3,0.2,No
+2024-08-20,1424,Whiteboard,Office Supplies,Presentation,South,Miami,4,945.84,0.05,No
+2024-09-30,1425,Pen,Office Supplies,Writing,North,Chicago,2,1345.92,0.05,No
+2024-06-02,1426,Pen,Office Supplies,Writing,North,Detroit,7,478.61,0.05,No
+2024-01-01,1427,Phone,Technology,Mobiles,East,Philadelphia,10,904.01,0.2,No
+2024-12-23,1428,Laptop,Technology,Computers,South,Houston,9,914.32,0.05,No
+2024-10-31,1429,Desk,Furniture,Tables,West,Los Angeles,8,584.97,0.05,No
+2024-01-24,1430,Pen,Office Supplies,Writing,West,San Jose,1,1480.45,0.1,No
+2024-04-22,1431,Pen,Office Supplies,Writing,North,Detroit,9,1027.58,0.15,No
+2024-05-04,1432,Phone,Technology,Mobiles,West,San Jose,2,30.55,0.05,Yes
+2024-10-12,1433,Laptop,Technology,Computers,North,Cleveland,5,946.57,0.2,No
+2024-08-10,1434,Notebook,Office Supplies,Paper,North,Chicago,9,811.11,0.05,No
+2024-04-17,1435,Desk,Furniture,Tables,West,San Jose,4,1461.73,0.05,No
+2024-04-24,1436,Notebook,Office Supplies,Paper,West,San Diego,7,1097.64,0.05,Yes
+2024-08-14,1437,Phone,Technology,Mobiles,North,Chicago,8,922.32,0.0,No
+2024-02-15,1438,Monitor,Technology,Accessories,West,Los Angeles,3,1055.23,0.05,No
+2024-03-12,1439,Chair,Furniture,Chairs,South,Houston,6,199.13,0.1,No
+2024-04-23,1440,Phone,Technology,Mobiles,West,San Diego,7,415.25,0.0,No
+2024-10-06,1441,Pen,Office Supplies,Writing,West,San Diego,8,771.07,0.0,No
+2024-02-21,1442,Pen,Office Supplies,Writing,East,Boston,3,390.12,0.0,No
+2024-02-12,1443,Phone,Technology,Mobiles,East,Philadelphia,9,13.83,0.0,No
+2024-07-24,1444,Whiteboard,Office Supplies,Presentation,South,Atlanta,3,276.65,0.0,No
+2024-02-24,1445,Notebook,Office Supplies,Paper,East,Boston,4,630.22,0.1,No
+2024-09-12,1446,Phone,Technology,Mobiles,South,Houston,9,1013.26,0.0,No
+2024-09-04,1447,Printer,Technology,Accessories,West,San Diego,2,1316.72,0.1,No
+2024-11-30,1448,Desk,Furniture,Tables,South,Houston,9,690.55,0.1,No
+2024-06-25,1449,Pen,Office Supplies,Writing,South,Miami,10,371.45,0.1,No
+2024-09-08,1450,Whiteboard,Office Supplies,Presentation,East,Philadelphia,9,1143.12,0.05,No
+2024-03-01,1451,Notebook,Office Supplies,Paper,West,Los Angeles,9,526.17,0.0,No
+2024-03-27,1452,Laptop,Technology,Computers,North,Cleveland,5,164.88,0.2,No
+2024-01-18,1453,Notebook,Office Supplies,Paper,North,Chicago,3,1070.36,0.0,Yes
+2024-08-25,1454,Headphones,Technology,Accessories,North,Cleveland,6,693.1,0.0,No
+2024-09-07,1455,Printer,Technology,Accessories,East,Philadelphia,7,121.5,0.2,Yes
+2024-01-11,1456,Monitor,Technology,Accessories,East,Boston,5,1277.86,0.15,No
+2024-02-14,1457,Chair,Furniture,Chairs,South,Atlanta,5,358.08,0.05,No
+2024-06-20,1458,Pen,Office Supplies,Writing,West,Los Angeles,2,254.92,0.15,No
+2024-07-17,1459,Phone,Technology,Mobiles,South,Houston,8,469.38,0.1,No
+2024-11-04,1460,Phone,Technology,Mobiles,East,Philadelphia,5,1241.32,0.2,Yes
+2024-09-08,1461,Chair,Furniture,Chairs,East,New York,4,1452.92,0.15,No
+2024-09-27,1462,Desk,Furniture,Tables,South,Houston,1,1428.62,0.15,No
+2024-08-28,1463,Printer,Technology,Accessories,East,New York,8,161.84,0.05,No
+2024-01-07,1464,Laptop,Technology,Computers,East,New York,4,1237.27,0.1,No
+2024-01-26,1465,Phone,Technology,Mobiles,South,Houston,1,1495.77,0.05,No
+2024-09-19,1466,Whiteboard,Office Supplies,Presentation,East,New York,6,192.57,0.15,Yes
+2024-04-11,1467,Pen,Office Supplies,Writing,North,Cleveland,7,749.23,0.15,No
+2024-02-01,1468,Monitor,Technology,Accessories,South,Houston,3,419.72,0.15,No
+2024-03-04,1469,Laptop,Technology,Computers,East,Philadelphia,5,753.35,0.2,No
+2024-09-30,1470,Phone,Technology,Mobiles,South,Atlanta,3,634.66,0.2,No
+2024-02-09,1471,Printer,Technology,Accessories,West,San Diego,6,724.73,0.15,No
+2024-01-15,1472,Pen,Office Supplies,Writing,South,Atlanta,5,277.93,0.1,No
+2024-01-29,1473,Laptop,Technology,Computers,South,Houston,8,798.85,0.2,No
+2024-02-09,1474,Monitor,Technology,Accessories,West,Los Angeles,4,407.13,0.0,No
+2024-05-30,1475,Headphones,Technology,Accessories,North,Detroit,3,272.39,0.2,No
+2024-07-29,1476,Chair,Furniture,Chairs,West,San Jose,6,1421.86,0.2,No
+2024-03-22,1477,Headphones,Technology,Accessories,North,Cleveland,5,271.58,0.0,Yes
+2024-04-15,1478,Headphones,Technology,Accessories,East,New York,9,722.2,0.1,No
+2024-05-16,1479,Headphones,Technology,Accessories,East,Boston,3,1378.98,0.1,Yes
+2024-01-07,1480,Monitor,Technology,Accessories,East,New York,9,1292.4,0.0,No
+2024-02-12,1481,Notebook,Office Supplies,Paper,West,San Diego,5,490.68,0.05,No
+2024-01-26,1482,Notebook,Office Supplies,Paper,North,Cleveland,6,269.56,0.2,No
+2024-03-09,1483,Pen,Office Supplies,Writing,South,Houston,10,1223.54,0.15,No
+2024-08-16,1484,Desk,Furniture,Tables,East,New York,1,1423.69,0.2,No
+2024-03-03,1485,Pen,Office Supplies,Writing,West,Los Angeles,10,484.14,0.2,No
+2024-11-25,1486,Pen,Office Supplies,Writing,West,San Diego,3,503.44,0.0,No
+2024-05-05,1487,Chair,Furniture,Chairs,East,Philadelphia,2,1234.28,0.1,No
+2024-02-20,1488,Desk,Furniture,Tables,East,New York,2,532.22,0.0,No
+2024-10-29,1489,Laptop,Technology,Computers,North,Detroit,7,1453.96,0.15,No
+2024-01-07,1490,Notebook,Office Supplies,Paper,South,Miami,7,161.13,0.15,No
+2024-08-13,1491,Pen,Office Supplies,Writing,East,New York,8,119.83,0.0,No
+2024-12-10,1492,Chair,Furniture,Chairs,South,Houston,2,519.29,0.15,No
+2024-06-17,1493,Phone,Technology,Mobiles,West,San Diego,10,1478.06,0.15,No
+2024-11-07,1494,Notebook,Office Supplies,Paper,East,Philadelphia,7,244.08,0.0,No
+2024-04-11,1495,Headphones,Technology,Accessories,North,Cleveland,9,1085.84,0.2,No
+2024-08-29,1496,Desk,Furniture,Tables,South,Houston,2,83.96,0.2,No
+2024-07-25,1497,Whiteboard,Office Supplies,Presentation,East,New York,6,15.69,0.0,No
+2024-02-27,1498,Pen,Office Supplies,Writing,North,Chicago,2,48.35,0.05,No
+2024-02-14,1499,Phone,Technology,Mobiles,North,Chicago,5,1179.47,0.15,No
+2024-06-21,1500,Desk,Furniture,Tables,West,San Jose,9,587.42,0.1,No
