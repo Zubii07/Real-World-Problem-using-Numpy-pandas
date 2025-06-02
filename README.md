@@ -86,9 +86,3 @@ Data Analyst Intern | Python Enthusiast
 
 ---
 
-## 📁 How to Run
-
-1. Clone the repository or download the `.ipynb` file.
-2. Install required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
